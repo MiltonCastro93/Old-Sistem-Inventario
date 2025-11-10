@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb5bace28a601654d832685bc3e64798, type: 3}
+  m_Name: FoodAppleGreen
+  m_EditorClassIdentifier: 
+  itemID: AppleGreen.001
+  itemName: Apple
+  itemIcon: {fileID: 21300000, guid: 70df993518474404f8b8f8ee833a635f, type: 3}
+  itemPrefab: {fileID: 8597795355650538568, guid: 4583d83b3550ce74fb79db9f704ed3e5, type: 3}
+  comment: Manzana Verde, si la comes, tendras espasmos anales durante 60 minutos,
+    despues de estos minutos, pasaras un gran sufrimiento por el dolor generados.
